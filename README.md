@@ -1,4 +1,4 @@
-# Hop Across Highway - The frog game 🐸
+# Hop Across Highway 🐸
 
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 ![P5.js](https://img.shields.io/badge/-made--with--p5.js-green)
