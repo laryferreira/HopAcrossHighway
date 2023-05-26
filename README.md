@@ -1,9 +1,8 @@
 # Hop Across Highway 🐸
-
+###### Developed by: Laryssa Ferreira (learning purposes)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 ![P5.js](https://img.shields.io/badge/-made--with--p5.js-green)
 ![fun](https://img.shields.io/badge/-just%20for%20fun!-blue) 
-###### Developed by: Laryssa Ferreira (learning purposes)
 
 ## The game preview:
 ![game.gif](https://github.com/laryferreira/HopAcrossHighway/blob/studies/hop.gif) 
